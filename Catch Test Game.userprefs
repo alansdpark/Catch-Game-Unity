@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager.cs">
+    <Files>
+      <File FileName="Assets\PlayerMovement.cs" Line="12" Column="3" />
+      <File FileName="Assets\Fall.cs" Line="7" Column="30" />
+      <File FileName="Assets\EnterBox.cs" Line="9" Column="50" />
+      <File FileName="Assets\Enter.cs" Line="23" Column="49" />
+      <File FileName="Assets\InstantiateSpheres.cs" Line="23" Column="46" />
+      <File FileName="Assets\GameManager.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
